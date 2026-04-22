@@ -1,4 +1,4 @@
-package main.java.com.ari.voxelmechanics.components;
+package com.ari.voxelmechanics.components;
 
 import java.util.Arrays;
 

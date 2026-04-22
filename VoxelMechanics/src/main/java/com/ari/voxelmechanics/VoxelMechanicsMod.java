@@ -1,11 +1,11 @@
-package main.java.com.ari.voxelmechanics;
+package com.ari.voxelmechanics;
 
 import com.hypixel.hytale.server.core.HytaleServer;
 import com.hypixel.hytale.server.core.event.events.player.PlayerInteractEvent;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
 
-import main.java.com.ari.voxelmechanics.systems.VoxelMechanicsSystem;
+import com.ari.voxelmechanics.systems.VoxelMechanicsSystem;
 
 public class VoxelMechanicsMod extends JavaPlugin {
     

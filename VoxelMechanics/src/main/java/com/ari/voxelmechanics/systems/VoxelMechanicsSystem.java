@@ -1,11 +1,11 @@
-package main.java.com.ari.voxelmechanics.systems;
+package com.ari.voxelmechanics.systems;
 
 import com.hypixel.hytale.component.ComponentType;
 import com.hypixel.hytale.server.core.event.events.player.PlayerInteractEvent;
 import com.hypixel.hytale.server.core.inventory.ItemStack;
 import com.hypixel.hytale.server.core.universe.world.storage.EntityStore;
 
-import main.java.com.ari.voxelmechanics.components.VoxelGridComponent;
+import com.ari.voxelmechanics.components.VoxelGridComponent;
 
 public class VoxelMechanicsSystem {
 
