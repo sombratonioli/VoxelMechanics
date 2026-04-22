@@ -1,0 +1,21 @@
+{
+  "Group": "Sombra Tonioli",
+  "Name": "VoxelMechanics",
+  "Version": "1.0.0",
+  "Description": "Engenharia de Precisão, Manufatura Procedural e Simulação Física",
+  "Authors": [
+    {
+      "Name": "Ari Sombra Tonioli",
+      "Email": "sombra.tonioli@gmail.com",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
